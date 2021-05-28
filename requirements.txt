@@ -1,0 +1,6 @@
+PyQt4
+urllib
+socket
+cv2
+
+The robot :)
